@@ -62,6 +62,7 @@ hr
 html
 i
 iframe
+image
 img
 input
 ins
@@ -117,6 +118,7 @@ style
 sub
 summary
 sup
+svg
 table
 tbody
 td
