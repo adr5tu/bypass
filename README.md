@@ -6,4 +6,4 @@
 
 
 
-# wafRule是自建WAF时针对XSS编写的正则规则
+##### wafRule是自建WAF时针对XSS编写的正则规则
